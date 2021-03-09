@@ -18,7 +18,7 @@ Below is a table with a description of the possible parameters and the status of
 | in progress   | --next       | -N    | Determining the next (available) IP address for this subnet          |
 | in progress   | --prev       | -P    | Determining the previous (available) IP address for this subnet      |
 | finished      | --first      | -F    | Provide the first available IP address for a given subnet            |
-| finished      | --last       |  L    | Provide the last available IP address for a given subnet             |
+| finished      | --last       | -L    | Provide the last available IP address for a given subnet             |
 | in progress   | --split      | -S    | Divide a network into subnets based on a given mask length           |
 | finished      | --all        | -A    | Presentation of all possible information about the IP address        |
 | not begun     | --compress   | -co   | Compression (simplification) of an IPv6 address                      |
